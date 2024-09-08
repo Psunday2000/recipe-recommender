@@ -1,0 +1,28 @@
+{
+    "food_name": "Owo Soup (Special Meat)",
+    "main_ingredients": "Owo leaves, expensive meat (goat, bushmeat), fish",
+    "description": "Green soup made with Owo leaves and a selection of pricier meats like goat or bushmeat",
+    "spice_level": "Mild",
+    "price_range": "Moderate-Expensive"
+}
+{
+    "food_name": "Owo Soup (Special Meat)",
+    "main_ingredients": "Owo leaves, expensive meat (goat, bushmeat), fish",
+    "description": "Green soup made with Owo leaves and a selection of pricier meats like goat or bushmeat",
+    "spice_level": "Mild",
+    "price_range": "Moderate-Expensive"
+}
+{
+    "food_name": "Isi Ewu",
+    "main_ingredients": "Cow head, palm oil, spices",
+    "description": "Spicy and flavorful dish made from cow head cooked in palm oil",
+    "spice_level": "Spicy",
+    "price_range": "Moderate"
+}
+{
+    "food_name": "Ekpang Nla",
+    "main_ingredients": "Water yam, expensive protein (assorted meats, offal), spices",
+    "description": "Special occasion dish made with water yam, a variety of expensive meats and offal, and spices",
+    "spice_level": "Spicy",
+    "price_range": "Very Expensive"
+}

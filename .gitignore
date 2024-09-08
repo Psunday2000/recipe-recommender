@@ -1,0 +1,8 @@
+# Laravel related ignores
+/recipe-recommender-app/node_modules/
+/recipe-recommender-app/vendor/
+/recipe-recommender-app/.env
+/recp/
+recipe-recommender.sql
+test.py
+model_generator.py
